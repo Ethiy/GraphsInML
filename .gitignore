@@ -1,0 +1,15 @@
+TP2/
+*.pdf
+*.aux
+*.jpg
+*.log
+*.nav
+*.out
+*.snm
+*.syntex.gz
+*.toc
+*.bbl
+*.blg
+*.bib
+*.sty
+*.asv
